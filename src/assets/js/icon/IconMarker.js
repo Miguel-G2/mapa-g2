@@ -1,6 +1,6 @@
 import { Icon } from "leaflet";
 
-const Isize = [25,25];
+const Isize = [22.5,22.5];
 
 const IconEM = new Icon({
     iconUrl: require("../../img/icon/EM.svg"),

@@ -17,7 +17,7 @@ export const Map = () => {
             <MapContainer center={[24,-104]} zoom={6} scrollWheelZoom={true}>
                 <LayersControl  position="topright">
                     <ControlTitleLayer/>
-                    <ControlPolyLine/>
+                    {/* <ControlPolyLine/>   */}
                     <ControlOverlay/>
                 </LayersControl>
             </MapContainer>

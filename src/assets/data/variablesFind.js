@@ -1,15 +1,15 @@
 export const vatiablesFind = [
     {
         name_find: "ELVs FSRR",
-        context: "ELV's Ferro Sur"
+        context: "EAV Ferro SUr"
     },
     {
         name_find: "ELVs Pacifico",
-        context: "ELV's Pacifico"
+        context: "EAV Pacifico"
     },
     {
         name_find: "Meteorológicas",
-        context: "EM Meteorológicas"
+        context: "Meteorológicas"
     },
     {
         name_find: "Repetidores",
@@ -38,5 +38,41 @@ export const vatiablesFind = [
     {
         name_find: "LETIE",
         context: "LETIE"
+    },
+    {
+        name_find: "CHIHUAHUA",
+        context: "Chihuahua"
+    },
+    {
+        name_find: "CIUDAD DE MÉXICO",
+        context: "Ciudad De México"
+    },
+    {
+        name_find: "FERROSUR",
+        context: "FERRO sur"
+    },
+    {
+        name_find: "GUADALAJARA",
+        context: "Guadalajara"
+    },
+    {
+        name_find: "HERMOSILLO",
+        context: "Hermosillo"
+    },
+    {
+        name_find: "MONTERREY",
+        context: "Monterrey"
+    },
+    {
+        name_find: "ORIZABA",
+        context: "Orizaba"
+    },
+    {
+        name_find: "PUEBLA",
+        context: "Puebla"
+    },
+    {
+        name_find: "TIERRA BLANCA",
+        context: "Tierra Blanca"
     }
 ]
