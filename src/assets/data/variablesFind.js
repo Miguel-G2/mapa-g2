@@ -1,18 +1,26 @@
 export const vatiablesFind = [
     {
-        name_find: "ELVs FSRR",
-        context: "EAV Ferro SUr"
+        name_find: "FERROCARRIL NORTE",
+        context: "EALV FERRO NORTE"
     },
     {
-        name_find: "ELVs Pacifico",
-        context: "EAV Pacifico"
+        name_find: "FERROCARRIL CENTRO",
+        context: "EALV FERRO CENTRO"
     },
     {
-        name_find: "Meteorológicas",
+        name_find: "FERROCARRIL SUR",
+        context: "EALV FERRO SUR"
+    },
+    {
+        name_find: "FERROCARRIL PACIFICO",
+        context: "EALV FERRO PACIFICO"
+    },
+    {
+        name_find: "EM",
         context: "Meteorológicas"
     },
     {
-        name_find: "Repetidores",
+        name_find: "Repetidor",
         context: "Repetidores"
     },
     {
@@ -74,5 +82,49 @@ export const vatiablesFind = [
     {
         name_find: "TIERRA BLANCA",
         context: "Tierra Blanca"
+    },
+    {
+        name_find: "EMPALME",
+        context: "Empalme"
+    },
+    {
+        name_find: "LA BARCA",
+        context: "La Barca"
+    },
+    {
+        name_find: "MAZATLAN",
+        context: "Mazatlan"
+    },
+    {
+        name_find: "NACOZARI",
+        context: "Nacozari"
+    },
+    {
+        name_find: "NOGALES",
+        context: "Nogales"
+    },
+    {
+        name_find: "PATIO CANANEA",
+        context: "Patio Cananea"
+    },
+    {
+        name_find: "PUERTO PEÑASCO",
+        context: "Puerto Peñasco"
+    },
+    {
+        name_find: "SAYULA",
+        context: "Sayula"
+    },
+    {
+        name_find: "SUFRAGIO",
+        context: "Sufragio"
+    },
+    {
+        name_find: "TEPIC",
+        context: "Tepic"
+    },
+    {
+        name_find: "ZACAPU",
+        context: "Zacapu"
     }
 ]

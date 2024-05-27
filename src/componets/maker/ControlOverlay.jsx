@@ -13,7 +13,7 @@ export const ControlOverlay = () => {
         
         data.push({
                 layer_overlay:vatiablesFind[i].context,
-                marker_group: dataAll.filter(({device, division, region}) => device === vatiablesFind[i].name_find || division === vatiablesFind[i].name_find || region === vatiablesFind[i].name_find )
+                marker_group: dataAll.filter(({device, region, division, distrito, connection }) => device === vatiablesFind[i].name_find || division === vatiablesFind[i].name_find || region[0] === vatiablesFind[i].name_find || region[1] === vatiablesFind[i].name_find || distrito === vatiablesFind[i].name_find  || connection === vatiablesFind[i].name_find )
             });
         
     }
@@ -22,24 +22,7 @@ export const ControlOverlay = () => {
 
   return (
     <>
-       {/*  <LayersControl.Overlay name="dp">
-            <LayerGroup>
-                {
-                    dp.map((dato, i = 0) =>{
-                        i++
-                        return(
-                        <Marker position={dato}>
-                            <Popup>
-                                {i}
-                            </Popup>
-                        </Marker>
-                        );
-                    })
-                        
-                }
-            </LayerGroup>
-        </LayersControl.Overlay> */}
-        <LayersControl.Overlay checked name="Todos">
+        <LayersControl.Overlay checked name="EALV FERRO MEX">
             <LayerGroup>
                 <ControlMaker data={dataAll}/>
             </LayerGroup>

@@ -1,4 +1,4 @@
-import { LayerGroup, LayersControl, Marker, Popup } from "react-leaflet";
+import { Marker, Popup } from "react-leaflet";
 import { IconFunction } from '../../assets/data/IconFunction';
 
 export const ControlMaker = ({data}) => {
