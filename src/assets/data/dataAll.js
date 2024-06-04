@@ -9,7 +9,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 1,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -21,7 +25,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 2,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -33,7 +41,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 3,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -45,7 +57,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 4,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -57,7 +73,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 5,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -69,7 +89,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 6,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -81,7 +105,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 7,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -93,7 +121,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 8,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -105,7 +137,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 9,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -117,7 +153,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 10,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -129,7 +169,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 11,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -141,7 +185,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 12,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -153,7 +201,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 13,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -165,7 +217,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 14,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -177,7 +233,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 15,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -189,7 +249,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 16,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -201,7 +265,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 17,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -213,7 +281,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 18,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -225,7 +297,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 19,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -237,7 +313,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 20,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -249,7 +329,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 21,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -261,7 +345,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 22,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -273,7 +361,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 23,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -285,7 +377,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 24,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -297,7 +393,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 25,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -309,7 +409,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 26,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -321,7 +425,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 27,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -333,7 +441,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 28,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -345,7 +457,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 29,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -357,7 +473,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 30,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -369,7 +489,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 31,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -381,7 +505,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 32,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -393,7 +521,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 33,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -405,7 +537,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 34,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -417,7 +553,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 35,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -429,7 +569,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 36,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -441,7 +585,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 37,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -453,7 +601,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 38,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -465,7 +617,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 39,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -477,7 +633,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 40,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -489,7 +649,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 41,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -501,7 +665,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 42,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -513,7 +681,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 43,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -525,7 +697,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 44,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -537,7 +713,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 45,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -549,7 +729,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 46,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -561,7 +745,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 47,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -573,7 +761,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 48,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -585,7 +777,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 49,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -597,7 +793,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 50,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -609,7 +809,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 51,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -621,7 +825,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 52,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -633,7 +841,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 53,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -645,7 +857,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 54,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -657,7 +873,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 55,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -669,7 +889,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 56,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -681,7 +905,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 57,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -693,7 +921,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 58,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -705,7 +937,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 59,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -717,7 +953,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 60,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -729,7 +969,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 61,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -741,7 +985,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 62,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -753,7 +1001,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 63,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -765,7 +1017,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 64,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -777,7 +1033,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 65,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -789,7 +1049,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 66,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -801,7 +1065,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 67,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -813,7 +1081,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 68,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -825,7 +1097,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 69,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -837,7 +1113,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 70,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -849,7 +1129,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 71,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -861,7 +1145,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 72,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -873,7 +1161,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 73,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -885,7 +1177,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 74,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -897,7 +1193,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 75,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -909,7 +1209,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 76,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -921,7 +1225,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 77,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -933,7 +1241,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 78,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -945,7 +1257,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 79,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -957,7 +1273,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 80,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -969,7 +1289,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 81,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -981,7 +1305,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 82,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -993,7 +1321,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 83,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1005,7 +1337,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 84,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1017,7 +1353,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 85,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1029,7 +1369,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 86,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1041,7 +1385,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 87,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1053,7 +1401,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 88,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1065,7 +1417,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 89,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1077,7 +1433,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 90,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1089,7 +1449,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 91,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1101,7 +1465,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 92,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1113,7 +1481,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 93,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1125,7 +1497,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 94,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "https://g2-telemetron.com/mode/dashboard",
+    "url_macazaga_post": "https://g2-telemetron.com/views/dashboards/deviceDashboard.php",
+    "url_macazaga_id": 70,
+    "url_miltifuncional": "https://mp.grupodos.com.mx/smi/site.jsp?idSite=222"
   },
   {
     "device": "Repetidor",
@@ -1137,7 +1513,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 95,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1149,7 +1529,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 96,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1161,7 +1545,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 97,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1173,7 +1561,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 98,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1185,7 +1577,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 99,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1197,7 +1593,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 100,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1209,7 +1609,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 101,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1221,7 +1625,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 102,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1233,7 +1641,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 103,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1245,7 +1657,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 104,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1257,7 +1673,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 105,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1269,7 +1689,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 106,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1281,7 +1705,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 107,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1293,7 +1721,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 108,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1305,7 +1737,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 109,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1317,7 +1753,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 110,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1329,7 +1769,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 111,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1341,7 +1785,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 112,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1353,7 +1801,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 113,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1365,7 +1817,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 114,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1377,7 +1833,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 115,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1389,7 +1849,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 116,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1401,7 +1865,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 117,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1413,7 +1881,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 118,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1425,7 +1897,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 119,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1437,7 +1913,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 120,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1449,7 +1929,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 121,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1461,7 +1945,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 122,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1473,7 +1961,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 123,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1485,7 +1977,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 124,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1497,7 +1993,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 125,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1509,7 +2009,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 126,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1521,7 +2025,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 127,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1533,7 +2041,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 128,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1545,7 +2057,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 129,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "https://g2-telemetron.com/mode/dashboard",
+    "url_macazaga_post": "https://g2-telemetron.com/views/dashboards/deviceDashboard.php",
+    "url_macazaga_id": 70,
+    "url_miltifuncional": "https://mp.grupodos.com.mx/smi/site.jsp?idSite=222"
   },
   {
     "device": "Repetidor",
@@ -1557,7 +2073,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 130,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1569,7 +2089,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 131,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1581,7 +2105,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 132,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1593,7 +2121,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 133,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1605,7 +2137,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 134,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1617,7 +2153,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 135,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "Repetidor",
@@ -1629,7 +2169,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 136,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -1641,7 +2185,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 137,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -1653,7 +2201,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 138,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -1665,7 +2217,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 139,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -1677,7 +2233,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 140,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -1689,7 +2249,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 141,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -1701,7 +2265,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 142,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -1713,7 +2281,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 143,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -1725,7 +2297,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 144,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -1737,7 +2313,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 145,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -1749,7 +2329,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 146,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -1761,7 +2345,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 147,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -1773,7 +2361,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 148,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -1785,7 +2377,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 149,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -1797,7 +2393,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 150,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -1809,7 +2409,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 151,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -1821,7 +2425,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 152,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -1833,7 +2441,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 153,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -1845,7 +2457,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 154,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -1857,7 +2473,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 155,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -1869,7 +2489,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 156,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -1881,7 +2505,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 157,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -1893,7 +2521,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 158,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -1905,7 +2537,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 159,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -1917,7 +2553,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 160,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -1929,7 +2569,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 161,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -1941,7 +2585,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 162,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -1953,7 +2601,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 163,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -1965,7 +2617,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 164,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -1977,7 +2633,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 165,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -1989,7 +2649,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 166,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2001,7 +2665,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 167,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2013,7 +2681,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 168,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2025,7 +2697,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 169,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2037,7 +2713,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 170,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2049,7 +2729,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 171,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2061,7 +2745,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 172,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2073,7 +2761,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 173,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2085,7 +2777,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 174,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2097,7 +2793,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 175,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2109,7 +2809,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 176,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2121,7 +2825,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 177,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2133,7 +2841,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 178,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2145,7 +2857,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 179,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2157,7 +2873,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 180,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2169,7 +2889,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 181,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2181,7 +2905,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 182,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2193,7 +2921,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 183,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2205,7 +2937,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 184,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2217,7 +2953,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 185,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2229,7 +2969,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 186,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2241,7 +2985,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 187,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2253,7 +3001,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 188,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2265,7 +3017,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 189,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2277,7 +3033,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 190,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2289,7 +3049,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 191,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2301,7 +3065,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 192,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2313,7 +3081,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 193,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2325,7 +3097,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 194,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2337,7 +3113,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 195,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2349,7 +3129,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 196,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2361,7 +3145,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 197,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2373,7 +3161,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 198,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2385,7 +3177,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 199,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2397,7 +3193,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 200,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2409,7 +3209,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 201,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2421,7 +3225,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 202,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2433,7 +3241,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 203,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2445,7 +3257,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 204,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2457,7 +3273,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 205,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2469,7 +3289,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 206,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2481,7 +3305,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 207,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2493,7 +3321,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 208,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2505,7 +3337,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 209,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2517,7 +3353,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 210,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2529,7 +3369,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 211,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2541,7 +3385,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 212,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2553,7 +3401,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 213,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2565,7 +3417,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 214,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2577,7 +3433,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 215,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2589,7 +3449,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 216,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2601,7 +3465,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 217,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DIR",
@@ -2613,7 +3481,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 218,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2625,7 +3497,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 219,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2637,7 +3513,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 220,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2649,7 +3529,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 221,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2661,7 +3545,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 222,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2673,7 +3561,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 223,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2685,7 +3577,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 224,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2697,7 +3593,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 225,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2709,7 +3609,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 226,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2721,7 +3625,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 227,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2733,7 +3641,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 228,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2745,7 +3657,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 229,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2757,7 +3673,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 230,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2769,7 +3689,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 231,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2781,7 +3705,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 232,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DIR",
@@ -2793,7 +3721,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 233,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2805,7 +3737,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 234,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2817,7 +3753,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 235,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2829,7 +3769,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 236,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2841,7 +3785,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 237,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2853,7 +3801,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 238,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2865,7 +3817,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 239,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DIR",
@@ -2877,7 +3833,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 240,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2889,7 +3849,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 241,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2901,7 +3865,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 242,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2913,7 +3881,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 243,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DIR",
@@ -2925,7 +3897,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 244,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2937,7 +3913,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 245,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2949,7 +3929,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 246,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2961,7 +3945,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 247,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -2973,7 +3961,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 248,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -2985,7 +3977,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 249,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -2997,7 +3993,11 @@ export const dataAll = [
     "distrito": "LA BARCA",
     "connection": "TELEMETRON",
     "_id": 250,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3009,7 +4009,11 @@ export const dataAll = [
     "distrito": "LA BARCA",
     "connection": "TELEMETRON",
     "_id": 251,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DDT",
@@ -3021,7 +4025,11 @@ export const dataAll = [
     "distrito": "LA BARCA",
     "connection": "TELEMETRON",
     "_id": 252,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3033,7 +4041,11 @@ export const dataAll = [
     "distrito": "LA BARCA",
     "connection": "TELEMETRON",
     "_id": 253,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3045,7 +4057,11 @@ export const dataAll = [
     "distrito": "LA BARCA",
     "connection": "TELEMETRON",
     "_id": 254,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3057,7 +4073,11 @@ export const dataAll = [
     "distrito": "LA BARCA",
     "connection": "TELEMETRON",
     "_id": 255,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3069,7 +4089,11 @@ export const dataAll = [
     "distrito": "LA BARCA",
     "connection": "TELEMETRON",
     "_id": 256,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3081,7 +4105,11 @@ export const dataAll = [
     "distrito": "LA BARCA",
     "connection": "TELEMETRON",
     "_id": 257,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -3093,7 +4121,11 @@ export const dataAll = [
     "distrito": "LA BARCA",
     "connection": "TELEMETRON",
     "_id": 258,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -3105,7 +4137,11 @@ export const dataAll = [
     "distrito": "LA BARCA",
     "connection": "TELEMETRON",
     "_id": 259,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -3117,7 +4153,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 260,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -3129,7 +4169,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 261,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -3141,7 +4185,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 262,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -3153,7 +4201,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 263,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -3165,7 +4217,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 264,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3177,7 +4233,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 265,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3189,7 +4249,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 266,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -3201,7 +4265,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 267,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -3213,7 +4281,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 268,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3225,7 +4297,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 269,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3237,7 +4313,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 270,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DIR",
@@ -3249,7 +4329,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 271,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3261,7 +4345,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 272,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -3273,7 +4361,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 273,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -3285,7 +4377,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 274,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -3297,7 +4393,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 275,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3309,7 +4409,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 276,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "MDMC",
@@ -3321,7 +4425,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 277,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -3333,7 +4441,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 278,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3345,7 +4457,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 279,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -3357,7 +4473,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 280,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "MDMC",
@@ -3369,7 +4489,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 281,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -3381,7 +4505,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 282,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3393,7 +4521,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 283,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3405,7 +4537,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 284,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3417,7 +4553,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 285,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3429,7 +4569,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 286,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DEC",
@@ -3441,7 +4585,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 287,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -3453,7 +4601,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 288,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -3465,7 +4617,11 @@ export const dataAll = [
     "distrito": "SAYULA",
     "connection": "TELEMETRON",
     "_id": 289,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -3477,7 +4633,11 @@ export const dataAll = [
     "distrito": "ZACAPU",
     "connection": "TELEMETRON",
     "_id": 290,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "MDMC",
@@ -3489,7 +4649,11 @@ export const dataAll = [
     "distrito": "ZACAPU",
     "connection": "TELEMETRON",
     "_id": 291,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -3501,7 +4665,11 @@ export const dataAll = [
     "distrito": "TEPIC",
     "connection": "TELEMETRON",
     "_id": 292,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -3513,7 +4681,11 @@ export const dataAll = [
     "distrito": "TEPIC",
     "connection": "TELEMETRON",
     "_id": 293,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3525,7 +4697,11 @@ export const dataAll = [
     "distrito": "TEPIC",
     "connection": "TELEMETRON",
     "_id": 294,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3537,7 +4713,11 @@ export const dataAll = [
     "distrito": "TEPIC",
     "connection": "TELEMETRON",
     "_id": 295,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3549,7 +4729,11 @@ export const dataAll = [
     "distrito": "TEPIC",
     "connection": "TELEMETRON",
     "_id": 296,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3561,7 +4745,11 @@ export const dataAll = [
     "distrito": "TEPIC",
     "connection": "TELEMETRON",
     "_id": 297,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -3573,7 +4761,11 @@ export const dataAll = [
     "distrito": "TEPIC",
     "connection": "TELEMETRON",
     "_id": 298,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3585,7 +4777,11 @@ export const dataAll = [
     "distrito": "TEPIC",
     "connection": "TELEMETRON",
     "_id": 299,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3597,7 +4793,11 @@ export const dataAll = [
     "distrito": "TEPIC",
     "connection": "TELEMETRON",
     "_id": 300,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -3609,7 +4809,11 @@ export const dataAll = [
     "distrito": "TEPIC",
     "connection": "TELEMETRON",
     "_id": 301,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3621,7 +4825,11 @@ export const dataAll = [
     "distrito": "TEPIC",
     "connection": "TELEMETRON",
     "_id": 302,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -3633,7 +4841,11 @@ export const dataAll = [
     "distrito": "TEPIC",
     "connection": "TELEMETRON",
     "_id": 303,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3645,7 +4857,11 @@ export const dataAll = [
     "distrito": "TEPIC",
     "connection": "TELEMETRON",
     "_id": 304,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -3657,7 +4873,11 @@ export const dataAll = [
     "distrito": "TEPIC",
     "connection": "TELEMETRON",
     "_id": 305,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -3669,7 +4889,11 @@ export const dataAll = [
     "distrito": "TEPIC",
     "connection": "TELEMETRON",
     "_id": 306,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -3681,7 +4905,11 @@ export const dataAll = [
     "distrito": "MAZATLAN",
     "connection": "TELEMETRON",
     "_id": 307,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "MDMC",
@@ -3693,7 +4921,11 @@ export const dataAll = [
     "distrito": "MAZATLAN",
     "connection": "TELEMETRON",
     "_id": 308,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -3705,7 +4937,11 @@ export const dataAll = [
     "distrito": "MAZATLAN",
     "connection": "TELEMETRON",
     "_id": 309,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3717,7 +4953,11 @@ export const dataAll = [
     "distrito": "MAZATLAN",
     "connection": "TELEMETRON",
     "_id": 310,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3729,7 +4969,11 @@ export const dataAll = [
     "distrito": "MAZATLAN",
     "connection": "TELEMETRON",
     "_id": 311,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3741,7 +4985,11 @@ export const dataAll = [
     "distrito": "MAZATLAN",
     "connection": "TELEMETRON",
     "_id": 312,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3753,7 +5001,11 @@ export const dataAll = [
     "distrito": "MAZATLAN",
     "connection": "TELEMETRON",
     "_id": 313,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -3765,7 +5017,11 @@ export const dataAll = [
     "distrito": "MAZATLAN",
     "connection": "TELEMETRON",
     "_id": 314,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -3777,7 +5033,11 @@ export const dataAll = [
     "distrito": "MAZATLAN",
     "connection": "TELEMETRON",
     "_id": 315,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -3789,7 +5049,11 @@ export const dataAll = [
     "distrito": "MAZATLAN",
     "connection": "TELEMETRON",
     "_id": 316,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3801,7 +5065,11 @@ export const dataAll = [
     "distrito": "MAZATLAN",
     "connection": "TELEMETRON",
     "_id": 317,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3813,7 +5081,11 @@ export const dataAll = [
     "distrito": "MAZATLAN",
     "connection": "TELEMETRON",
     "_id": 318,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3825,7 +5097,11 @@ export const dataAll = [
     "distrito": "MAZATLAN",
     "connection": "TELEMETRON",
     "_id": 319,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3837,7 +5113,11 @@ export const dataAll = [
     "distrito": "MAZATLAN",
     "connection": "TELEMETRON",
     "_id": 320,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -3849,7 +5129,11 @@ export const dataAll = [
     "distrito": "MAZATLAN",
     "connection": "TELEMETRON",
     "_id": 321,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3861,7 +5145,11 @@ export const dataAll = [
     "distrito": "MAZATLAN",
     "connection": "TELEMETRON",
     "_id": 322,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -3873,7 +5161,11 @@ export const dataAll = [
     "distrito": "MAZATLAN",
     "connection": "TELEMETRON",
     "_id": 323,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -3885,7 +5177,11 @@ export const dataAll = [
     "distrito": "MAZATLAN",
     "connection": "TELEMETRON",
     "_id": 324,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -3897,7 +5193,11 @@ export const dataAll = [
     "distrito": "MAZATLAN",
     "connection": "TELEMETRON",
     "_id": 325,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -3909,7 +5209,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 326,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3921,7 +5225,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 327,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DIR",
@@ -3933,7 +5241,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 328,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3945,7 +5257,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 329,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3957,7 +5273,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 330,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3969,7 +5289,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 331,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -3981,7 +5305,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 332,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -3993,7 +5321,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 333,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -4005,7 +5337,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 334,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4017,7 +5353,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 335,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4029,7 +5369,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 336,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -4041,7 +5385,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 337,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -4053,7 +5401,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 338,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4065,7 +5417,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 339,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4077,7 +5433,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 340,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4089,7 +5449,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 341,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4101,7 +5465,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 342,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4113,7 +5481,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 343,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4125,7 +5497,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 344,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -4137,7 +5513,11 @@ export const dataAll = [
     "distrito": "EMPALME",
     "connection": "TELEMETRON",
     "_id": 345,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -4149,7 +5529,11 @@ export const dataAll = [
     "distrito": "SUFRAGIO",
     "connection": "TELEMETRON",
     "_id": 346,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -4161,7 +5545,11 @@ export const dataAll = [
     "distrito": "EMPALME",
     "connection": "TELEMETRON",
     "_id": 347,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4173,7 +5561,11 @@ export const dataAll = [
     "distrito": "EMPALME",
     "connection": "TELEMETRON",
     "_id": 348,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4185,7 +5577,11 @@ export const dataAll = [
     "distrito": "EMPALME",
     "connection": "TELEMETRON",
     "_id": 349,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4197,7 +5593,11 @@ export const dataAll = [
     "distrito": "EMPALME",
     "connection": "TELEMETRON",
     "_id": 350,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4209,7 +5609,11 @@ export const dataAll = [
     "distrito": "EMPALME",
     "connection": "TELEMETRON",
     "_id": 351,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4221,7 +5625,11 @@ export const dataAll = [
     "distrito": "EMPALME",
     "connection": "TELEMETRON",
     "_id": 352,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4233,7 +5641,11 @@ export const dataAll = [
     "distrito": "EMPALME",
     "connection": "TELEMETRON",
     "_id": 353,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -4245,7 +5657,11 @@ export const dataAll = [
     "distrito": "EMPALME",
     "connection": "TELEMETRON",
     "_id": 354,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4257,7 +5673,11 @@ export const dataAll = [
     "distrito": "EMPALME",
     "connection": "TELEMETRON",
     "_id": 355,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -4269,7 +5689,11 @@ export const dataAll = [
     "distrito": "EMPALME",
     "connection": "TELEMETRON",
     "_id": 356,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DIR",
@@ -4281,7 +5705,11 @@ export const dataAll = [
     "distrito": "EMPALME",
     "connection": "TELEMETRON",
     "_id": 357,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4293,7 +5721,11 @@ export const dataAll = [
     "distrito": "EMPALME",
     "connection": "TELEMETRON",
     "_id": 358,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4305,7 +5737,11 @@ export const dataAll = [
     "distrito": "EMPALME",
     "connection": "TELEMETRON",
     "_id": 359,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4317,7 +5753,11 @@ export const dataAll = [
     "distrito": "EMPALME",
     "connection": "TELEMETRON",
     "_id": 360,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -4329,7 +5769,11 @@ export const dataAll = [
     "distrito": "EMPALME",
     "connection": "TELEMETRON",
     "_id": 361,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -4341,7 +5785,11 @@ export const dataAll = [
     "distrito": "NOGALES",
     "connection": "TELEMETRON",
     "_id": 362,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4353,7 +5801,11 @@ export const dataAll = [
     "distrito": "NOGALES",
     "connection": "TELEMETRON",
     "_id": 363,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4365,7 +5817,11 @@ export const dataAll = [
     "distrito": "NOGALES",
     "connection": "TELEMETRON",
     "_id": 364,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4377,7 +5833,11 @@ export const dataAll = [
     "distrito": "NOGALES",
     "connection": "TELEMETRON",
     "_id": 365,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -4389,7 +5849,11 @@ export const dataAll = [
     "distrito": "NOGALES",
     "connection": "TELEMETRON",
     "_id": 366,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4401,7 +5865,11 @@ export const dataAll = [
     "distrito": "NOGALES",
     "connection": "TELEMETRON",
     "_id": 367,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -4413,7 +5881,11 @@ export const dataAll = [
     "distrito": "NOGALES",
     "connection": "TELEMETRON",
     "_id": 368,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4425,7 +5897,11 @@ export const dataAll = [
     "distrito": "NOGALES",
     "connection": "TELEMETRON",
     "_id": 369,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4437,7 +5913,11 @@ export const dataAll = [
     "distrito": "NOGALES",
     "connection": "TELEMETRON",
     "_id": 370,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4449,7 +5929,11 @@ export const dataAll = [
     "distrito": "NOGALES",
     "connection": "TELEMETRON",
     "_id": 371,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DIR",
@@ -4461,7 +5945,11 @@ export const dataAll = [
     "distrito": "NOGALES",
     "connection": "TELEMETRON",
     "_id": 372,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4473,7 +5961,11 @@ export const dataAll = [
     "distrito": "NOGALES",
     "connection": "TELEMETRON",
     "_id": 373,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4485,7 +5977,11 @@ export const dataAll = [
     "distrito": "NOGALES",
     "connection": "TELEMETRON",
     "_id": 374,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4497,7 +5993,11 @@ export const dataAll = [
     "distrito": "NOGALES",
     "connection": "TELEMETRON",
     "_id": 375,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4509,7 +6009,11 @@ export const dataAll = [
     "distrito": "NOGALES",
     "connection": "TELEMETRON",
     "_id": 376,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -4521,7 +6025,11 @@ export const dataAll = [
     "distrito": "NOGALES",
     "connection": "TELEMETRON",
     "_id": 377,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -4533,7 +6041,11 @@ export const dataAll = [
     "distrito": "NOGALES",
     "connection": "TELEMETRON",
     "_id": 378,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4545,7 +6057,11 @@ export const dataAll = [
     "distrito": "NACOZARI",
     "connection": "TELEMETRON",
     "_id": 379,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4557,7 +6073,11 @@ export const dataAll = [
     "distrito": "NACOZARI",
     "connection": "TELEMETRON",
     "_id": 380,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4569,7 +6089,11 @@ export const dataAll = [
     "distrito": "NACOZARI",
     "connection": "TELEMETRON",
     "_id": 381,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -4581,7 +6105,11 @@ export const dataAll = [
     "distrito": "NACOZARI",
     "connection": "TELEMETRON",
     "_id": 382,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4593,7 +6121,11 @@ export const dataAll = [
     "distrito": "NACOZARI",
     "connection": "TELEMETRON",
     "_id": 383,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4605,7 +6137,11 @@ export const dataAll = [
     "distrito": "NACOZARI",
     "connection": "TELEMETRON",
     "_id": 384,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4617,7 +6153,11 @@ export const dataAll = [
     "distrito": "NACOZARI",
     "connection": "TELEMETRON",
     "_id": 385,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4629,7 +6169,11 @@ export const dataAll = [
     "distrito": "NACOZARI",
     "connection": "TELEMETRON",
     "_id": 386,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4641,7 +6185,11 @@ export const dataAll = [
     "distrito": "NACOZARI",
     "connection": "TELEMETRON",
     "_id": 387,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4653,7 +6201,11 @@ export const dataAll = [
     "distrito": "NACOZARI",
     "connection": "TELEMETRON",
     "_id": 388,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -4665,7 +6217,11 @@ export const dataAll = [
     "distrito": "NACOZARI",
     "connection": "TELEMETRON",
     "_id": 389,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4677,7 +6233,11 @@ export const dataAll = [
     "distrito": "NACOZARI",
     "connection": "TELEMETRON",
     "_id": 390,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4689,7 +6249,11 @@ export const dataAll = [
     "distrito": "NACOZARI",
     "connection": "TELEMETRON",
     "_id": 391,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -4701,7 +6265,11 @@ export const dataAll = [
     "distrito": "NACOZARI",
     "connection": "TELEMETRON",
     "_id": 392,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -4713,7 +6281,11 @@ export const dataAll = [
     "distrito": "PUERTO PEÑASCO",
     "connection": "TELEMETRON",
     "_id": 393,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "MDMC",
@@ -4725,7 +6297,11 @@ export const dataAll = [
     "distrito": "PUERTO PEÑASCO",
     "connection": "TELEMETRON",
     "_id": 394,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4737,7 +6313,11 @@ export const dataAll = [
     "distrito": "PUERTO PEÑASCO",
     "connection": "TELEMETRON",
     "_id": 395,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "MDMC",
@@ -4749,7 +6329,11 @@ export const dataAll = [
     "distrito": "PUERTO PEÑASCO",
     "connection": "TELEMETRON",
     "_id": 396,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4761,7 +6345,11 @@ export const dataAll = [
     "distrito": "PUERTO PEÑASCO",
     "connection": "TELEMETRON",
     "_id": 397,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "MDMC",
@@ -4773,7 +6361,11 @@ export const dataAll = [
     "distrito": "PUERTO PEÑASCO",
     "connection": "TELEMETRON",
     "_id": 398,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4785,7 +6377,11 @@ export const dataAll = [
     "distrito": "PUERTO PEÑASCO",
     "connection": "TELEMETRON",
     "_id": 399,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "MDMC",
@@ -4797,7 +6393,11 @@ export const dataAll = [
     "distrito": "PUERTO PEÑASCO",
     "connection": "TELEMETRON",
     "_id": 400,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4809,7 +6409,11 @@ export const dataAll = [
     "distrito": "PUERTO PEÑASCO",
     "connection": "TELEMETRON",
     "_id": 401,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "MDMC",
@@ -4821,7 +6425,11 @@ export const dataAll = [
     "distrito": "PUERTO PEÑASCO",
     "connection": "TELEMETRON",
     "_id": 402,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4833,7 +6441,11 @@ export const dataAll = [
     "distrito": "PUERTO PEÑASCO",
     "connection": "TELEMETRON",
     "_id": 403,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "MDMC",
@@ -4845,7 +6457,11 @@ export const dataAll = [
     "distrito": "PUERTO PEÑASCO",
     "connection": "TELEMETRON",
     "_id": 404,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4857,7 +6473,11 @@ export const dataAll = [
     "distrito": "PUERTO PEÑASCO",
     "connection": "TELEMETRON",
     "_id": 405,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "MDMC",
@@ -4869,7 +6489,11 @@ export const dataAll = [
     "distrito": "PUERTO PEÑASCO",
     "connection": "TELEMETRON",
     "_id": 406,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -4881,7 +6505,11 @@ export const dataAll = [
     "distrito": "PUERTO PEÑASCO",
     "connection": "TELEMETRON",
     "_id": 407,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "MDMC",
@@ -4893,7 +6521,11 @@ export const dataAll = [
     "distrito": "PUERTO PEÑASCO",
     "connection": "TELEMETRON",
     "_id": 408,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -4905,7 +6537,11 @@ export const dataAll = [
     "distrito": "PUERTO PEÑASCO",
     "connection": "TELEMETRON",
     "_id": 409,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -4917,7 +6553,11 @@ export const dataAll = [
     "distrito": "PUERTO PEÑASCO",
     "connection": "TELEMETRON",
     "_id": 410,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "LETIE",
@@ -4929,7 +6569,11 @@ export const dataAll = [
     "distrito": "PATIO CANANEA",
     "connection": "TELEMETRON",
     "_id": 411,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -4941,7 +6585,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 412,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -4953,7 +6601,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 413,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -4965,7 +6617,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 414,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -4977,7 +6633,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 415,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -4989,7 +6649,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 416,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -5001,7 +6665,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 417,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -5013,7 +6681,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 418,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -5025,7 +6697,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 419,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -5037,7 +6713,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 420,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -5049,7 +6729,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 421,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -5061,7 +6745,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 422,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -5073,7 +6761,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 423,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -5085,7 +6777,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 424,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -5097,7 +6793,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 425,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -5109,7 +6809,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 426,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -5121,7 +6825,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 427,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -5133,7 +6841,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 428,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -5145,7 +6857,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 429,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -5157,7 +6873,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 430,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -5169,7 +6889,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 431,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -5181,7 +6905,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 432,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -5193,7 +6921,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 433,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -5205,7 +6937,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 434,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "EM",
@@ -5217,7 +6953,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "TELEMETRON",
     "_id": 435,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -5229,7 +6969,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "Satelitales",
     "_id": 436,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -5241,7 +6985,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "Satelitales",
     "_id": 437,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -5253,7 +7001,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "Satelitales",
     "_id": 438,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -5265,7 +7017,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "Satelitales",
     "_id": 439,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -5277,7 +7033,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "Satelitales",
     "_id": 440,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -5289,7 +7049,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "Satelitales",
     "_id": 441,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -5301,7 +7065,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "Satelitales",
     "_id": 442,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -5313,7 +7081,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "Satelitales",
     "_id": 443,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -5325,7 +7097,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "Satelitales",
     "_id": 444,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -5337,7 +7113,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "Satelitales",
     "_id": 445,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -5349,7 +7129,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "Satelitales",
     "_id": 446,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -5361,7 +7145,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "Satelitales",
     "_id": 447,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -5373,7 +7161,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "Satelitales",
     "_id": 448,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -5385,7 +7177,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "Satelitales",
     "_id": 449,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DOA",
@@ -5397,7 +7193,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "Satelitales",
     "_id": 450,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -5409,7 +7209,11 @@ export const dataAll = [
     "distrito": "",
     "connection": "Satelitales",
     "_id": 451,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   },
   {
     "device": "DMC",
@@ -5421,6 +7225,10 @@ export const dataAll = [
     "distrito": "",
     "connection": "Satelitales",
     "_id": 452,
-    "status": 1
+    "status": 1,
+    "url_macazaga_get": "UNdefinido",
+    "url_macazaga_post": "UNdefinido",
+    "url_macazaga_id": 1,
+    "url_miltifuncional": "Undefinido"
   }
 ];

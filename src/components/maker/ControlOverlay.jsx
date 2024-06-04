@@ -3,7 +3,7 @@ import { vatiablesFind } from '../../assets/data/variablesFind';
 import { LayerGroup, LayersControl, Marker, Popup } from 'react-leaflet';
 import { dataAll } from '../../assets/data/dataAll';
 import { ControlMaker } from './ControlMaker';
-import { dp } from '../../assets/data/dataprueba';
+// import { dp } from '../../assets/data/dataprueba';
 
 export const ControlOverlay = () => {
     
@@ -18,10 +18,26 @@ export const ControlOverlay = () => {
         
     }
 
-    console.log(data)
+    // console.log(data)
 
   return (
     <>
+        {/* <LayersControl.Overlay checked name="dp">
+            <LayerGroup>
+                {
+                    dp.map((d, index = 0) => {
+                        index++
+                        return(
+                            <Marker key={index} position={d}>
+                                <Popup>
+                                    { index }
+                                </Popup>
+                            </Marker>
+                        )
+                    })
+                }
+            </LayerGroup>
+        </LayersControl.Overlay> */}
         <LayersControl.Overlay checked name="EALV FERRO MEX">
             <LayerGroup>
                 <ControlMaker data={dataAll}/>

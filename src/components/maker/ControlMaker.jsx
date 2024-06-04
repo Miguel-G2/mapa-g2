@@ -2,6 +2,7 @@ import { Marker, Popup } from "react-leaflet";
 import { IconFunction } from '../../assets/data/IconFunction';
 
 export const ControlMaker = ({data}) => {
+
     const iconFind = (device, status) => {
         return IconFunction.find(({dispositivo, status_active}) => (dispositivo === device && status_active === status )).icon_function;
     }
@@ -14,19 +15,26 @@ export const ControlMaker = ({data}) => {
     return (
         <>
             {
-                data.map(({ latitude, longitude, _id, device, status, name }) => {
+                data.map(({ latitude, longitude, _id, device, status, name, url_macazaga_get, url_macazaga_post, url_macazaga_id, url_miltifuncional }) => {
                     return(
                         <Marker key={_id} position={[latitude, longitude]} icon={checkDevice(device, status)}>
                             <Popup>
                                 {
-                                    `${ device } ${ name }`
+                                    `${_id} -_- ${ device } ${ name }`
                                 }
                                 <br/>
                                 {
                                     `Estado: ${ (status ? "OK" : "Error") }`
                                 }
                                 <br/>
-                                <a href="http://www.grupodos.com.mx" target="_blank"> G2 </a>
+                                <form action={`${url_macazaga_get}`} method="POST" target="_blank">
+                                    <input defaultValue={url_macazaga_id} name="device" hidden/>
+                                    <button type="submit">macazaga</button>
+                                </form>
+                                <br/>
+                                <a href={`${url_macazaga_get}`} target="_blank"> Macazaga </a>
+                                <br/>
+                                <a href={`${url_miltifuncional}`} target="_blank"> Multifuncional </a>
                             </Popup>
                         </Marker>
                     )
