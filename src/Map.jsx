@@ -18,8 +18,8 @@ export const Map = () => {
       minZoom: 5
     });
 
-    // return () => map.remove();
-  }, []); // Se ejecuta solo una vez al montar el componente
+    return () => map.remove();
+  }, [map]); // Se ejecuta solo una vez al montar el componente
 
   return (
     <>
