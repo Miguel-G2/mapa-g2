@@ -1,10 +1,11 @@
-import '../assets/css/styles.css'
-import 'leaflet/dist/leaflet.css'
+import './assets/css/styles.css';
+import 'leaflet/dist/leaflet.css';
 
 import React from "react";
 import { LayersControl, MapContainer } from "react-leaflet";
-import { ControlTitleLayer } from './titlte/ControlTitleLayer';
-import { ControlOverlay } from './maker/ControlOverlay';
+import { ControlTitleLayer } from './components/titlte/ControlTitleLayer';
+import { ControlOverlay } from './components/maker/ControlOverlay';
+import { LayersControlTree } from './components/tree/LayersControlTree';
 
 export const Map = () => {
 
@@ -18,6 +19,8 @@ export const Map = () => {
                     <ControlTitleLayer/>
                     <ControlOverlay/>
                 </LayersControl>
+
+                <LayersControlTree overlays={ControlOverlay}/>
             </MapContainer>
         </>
     );

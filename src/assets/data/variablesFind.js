@@ -24,10 +24,6 @@ export const vatiablesFind = [
         context: "Repetidores"
     },
     {
-        name_find: "Satelitales",
-        context: "Satelitales"
-    },
-    {
         name_find: "DDT",
         context: "DDT"
     },
@@ -48,6 +44,14 @@ export const vatiablesFind = [
         context: "LETIE"
     },
     {
+        name_find: "Satelitales",
+        context: "CONS. Satelitales"
+    },
+    {
+        name_find: "TELEMETRON",
+        context: "CONS. Telemetron"
+    },
+    /* {
         name_find: "CHIHUAHUA",
         context: "Chihuahua"
     },
@@ -126,5 +130,5 @@ export const vatiablesFind = [
     {
         name_find: "ZACAPU",
         context: "Zacapu"
-    }
+    } */
 ]

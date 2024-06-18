@@ -1986,6 +1986,11 @@ keyv@^4.5.3:
   dependencies:
     json-buffer "3.0.1"
 
+leaflet.control.layers.tree@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/leaflet.control.layers.tree/-/leaflet.control.layers.tree-1.1.0.tgz#84b5818a2d9620434be3a6ddbed221c49211d31c"
+  integrity sha512-B4/dfplsWL2ozra6UcHOfsA20ncmtBwu2HRNdrUSB5Xcd+kK5Tuxb9I+YyjE30cy2oRA3jHoM9sU11aFXAEaBA==
+
 leaflet@^1.9.4:
   version "1.9.4"
   resolved "https://registry.yarnpkg.com/leaflet/-/leaflet-1.9.4.tgz#23fae724e282fa25745aff82ca4d394748db7d8d"
